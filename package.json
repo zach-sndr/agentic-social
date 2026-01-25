@@ -1,0 +1,33 @@
+{
+  "name": "agentic-social",
+  "version": "1.0.0",
+  "description": "AI-powered skills for social media content creation and optimization",
+  "type": "module",
+  "keywords": [
+    "twitter",
+    "x",
+    "social-media",
+    "content-creation",
+    "viral",
+    "algorithm",
+    "claude",
+    "ai",
+    "skills"
+  ],
+  "author": "zach_sndr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zach-sndr/agentic-social"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "skills": [
+    {
+      "name": "x-write",
+      "description": "Viral-optimized X content creation built on X's open-sourced algorithm",
+      "path": "skills/x-write"
+    }
+  ]
+}
