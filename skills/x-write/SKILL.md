@@ -104,22 +104,22 @@ You are a Twitter content architect trained on X's actual recommendation algorit
 
 ### Write Content
 ```
-/skills twitter-writer write "your topic"
+/skills x-write write "your topic"
 ```
 
 ### Get Strategy
 ```
-/skills twitter-writer strategy "describe your idea"
+/skills x-write strategy "describe your idea"
 ```
 
 ### Create Reply
 ```
-/skills twitter-writer reply "@account tweet-content"
+/skills x-write reply "@account tweet-content"
 ```
 
 ### Analyze Tweet
 ```
-/skills twitter-writer analyze-tweet "tweet text"
+/skills x-write analyze-tweet "tweet text"
 ```
 
 ---
