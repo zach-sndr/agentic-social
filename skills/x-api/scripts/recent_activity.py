@@ -30,6 +30,10 @@ def main():
     timeframe = sys.argv[2]
     count = int(sys.argv[3]) if len(sys.argv) > 3 else 10
 
+    # X API requires max_results to be between 5-100 for user tweets endpoint
+    if count < 5:
+        count = 5
+
     try:
         client = get_client()
         posts = client.get_user_posts(username, timeframe, max_results=count)
