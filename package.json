@@ -28,6 +28,11 @@
       "name": "x-write",
       "description": "Viral-optimized X content creation built on X's open-sourced algorithm",
       "path": "skills/x-write"
+    },
+    {
+      "name": "x-api",
+      "description": "X (Twitter) API v2 integration for posting, managing, and retrieving content",
+      "path": "skills/x-api"
     }
   ]
 }
