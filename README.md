@@ -46,7 +46,7 @@ python3 scripts/get_timeline.py 20
 ## Installation
 
 ```bash
-npx add-skill zach-sndr/agentic-social
+npx skills add zach-sndr/agentic-social
 ```
 
 ## Contributing
